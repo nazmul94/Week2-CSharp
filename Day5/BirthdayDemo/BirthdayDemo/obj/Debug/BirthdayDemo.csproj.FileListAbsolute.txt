@@ -1,0 +1,9 @@
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 5\BirthdayDemo\BirthdayDemo\bin\Debug\BirthdayDemo.exe.config
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 5\BirthdayDemo\BirthdayDemo\bin\Debug\BirthdayDemo.exe
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 5\BirthdayDemo\BirthdayDemo\bin\Debug\BirthdayDemo.pdb
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 5\BirthdayDemo\BirthdayDemo\obj\Debug\BirthdayDemo.csprojResolveAssemblyReference.cache
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 5\BirthdayDemo\BirthdayDemo\obj\Debug\BirthdayDemo.Form1.resources
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 5\BirthdayDemo\BirthdayDemo\obj\Debug\BirthdayDemo.Properties.Resources.resources
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 5\BirthdayDemo\BirthdayDemo\obj\Debug\BirthdayDemo.csproj.GenerateResource.Cache
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 5\BirthdayDemo\BirthdayDemo\obj\Debug\BirthdayDemo.exe
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 5\BirthdayDemo\BirthdayDemo\obj\Debug\BirthdayDemo.pdb

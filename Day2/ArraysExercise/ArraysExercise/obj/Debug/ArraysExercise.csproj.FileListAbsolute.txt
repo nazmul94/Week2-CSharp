@@ -1,0 +1,18 @@
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\Project 1\ArraysExercise\ArraysExercise\bin\Debug\ArraysExercise.exe.config
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\Project 1\ArraysExercise\ArraysExercise\obj\Debug\ArraysExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\Project 1\ArraysExercise\ArraysExercise\bin\Debug\ArraysExercise.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\Project 1\ArraysExercise\ArraysExercise\bin\Debug\ArraysExercise.pdb
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\Project 1\ArraysExercise\ArraysExercise\obj\Debug\ArraysExercise.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\Project 1\ArraysExercise\ArraysExercise\obj\Debug\ArraysExercise.pdb
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 2\ArraysExercise\ArraysExercise\bin\Debug\ArraysExercise.exe.config
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 2\ArraysExercise\ArraysExercise\obj\Debug\ArraysExercise.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 2\ArraysExercise\ArraysExercise\obj\Debug\ArraysExercise.pdb
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 2\ArraysExercise\ArraysExercise\bin\Debug\ArraysExercise.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 2\ArraysExercise\ArraysExercise\bin\Debug\ArraysExercise.pdb
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 2\ArraysExercise\ArraysExercise\obj\Debug\ArraysExercise.csprojResolveAssemblyReference.cache
+C:\Users\nazmu\OneDrive\JustIT\Day 2\ArraysExercise\ArraysExercise\bin\Debug\ArraysExercise.exe.config
+C:\Users\nazmu\OneDrive\JustIT\Day 2\ArraysExercise\ArraysExercise\obj\Debug\ArraysExercise.exe
+C:\Users\nazmu\OneDrive\JustIT\Day 2\ArraysExercise\ArraysExercise\obj\Debug\ArraysExercise.pdb
+C:\Users\nazmu\OneDrive\JustIT\Day 2\ArraysExercise\ArraysExercise\bin\Debug\ArraysExercise.exe
+C:\Users\nazmu\OneDrive\JustIT\Day 2\ArraysExercise\ArraysExercise\bin\Debug\ArraysExercise.pdb
+C:\Users\nazmu\OneDrive\JustIT\Day 2\ArraysExercise\ArraysExercise\obj\Debug\ArraysExercise.csprojResolveAssemblyReference.cache

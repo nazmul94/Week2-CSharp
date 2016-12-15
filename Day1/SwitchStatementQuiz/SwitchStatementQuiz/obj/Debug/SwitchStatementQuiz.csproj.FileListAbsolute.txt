@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\Project 1\SwitchStatementQuiz\SwitchStatementQuiz\bin\Debug\SwitchStatementQuiz.exe.config
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\Project 1\SwitchStatementQuiz\SwitchStatementQuiz\bin\Debug\SwitchStatementQuiz.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\Project 1\SwitchStatementQuiz\SwitchStatementQuiz\bin\Debug\SwitchStatementQuiz.pdb
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\Project 1\SwitchStatementQuiz\SwitchStatementQuiz\obj\Debug\SwitchStatementQuiz.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\Project 1\SwitchStatementQuiz\SwitchStatementQuiz\obj\Debug\SwitchStatementQuiz.pdb
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\Project 1\SwitchStatementQuiz\SwitchStatementQuiz\obj\Debug\SwitchStatementQuiz.csprojResolveAssemblyReference.cache

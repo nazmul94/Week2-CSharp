@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\StructExample\StructExample\bin\Debug\StructExample.exe.config
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\StructExample\StructExample\obj\Debug\StructExample.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\StructExample\StructExample\bin\Debug\StructExample.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\StructExample\StructExample\bin\Debug\StructExample.pdb
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\StructExample\StructExample\obj\Debug\StructExample.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\StructExample\StructExample\obj\Debug\StructExample.pdb

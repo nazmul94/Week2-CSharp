@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\Project 1\RiddleTime\RiddleTime\bin\Debug\RiddleTime.exe.config
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\Project 1\RiddleTime\RiddleTime\bin\Debug\RiddleTime.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\Project 1\RiddleTime\RiddleTime\bin\Debug\RiddleTime.pdb
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\Project 1\RiddleTime\RiddleTime\obj\Debug\RiddleTime.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\Project 1\RiddleTime\RiddleTime\obj\Debug\RiddleTime.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\Project 1\RiddleTime\RiddleTime\obj\Debug\RiddleTime.pdb
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\RiddleTime\RiddleTime\bin\Debug\RiddleTime.exe.config
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\RiddleTime\RiddleTime\obj\Debug\RiddleTime.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\RiddleTime\RiddleTime\obj\Debug\RiddleTime.pdb
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\RiddleTime\RiddleTime\bin\Debug\RiddleTime.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\RiddleTime\RiddleTime\bin\Debug\RiddleTime.pdb
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\RiddleTime\RiddleTime\obj\Debug\RiddleTime.csprojResolveAssemblyReference.cache

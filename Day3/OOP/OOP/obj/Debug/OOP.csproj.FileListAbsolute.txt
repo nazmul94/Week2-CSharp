@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\OOP\OOP\obj\Debug\OOP.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\OOP\OOP\obj\Debug\OOP.pdb
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 3\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 3\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 3\OOP\OOP\obj\Debug\OOP.pdb
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 3\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 3\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 3\OOP\OOP\obj\Debug\OOP.csprojResolveAssemblyReference.cache

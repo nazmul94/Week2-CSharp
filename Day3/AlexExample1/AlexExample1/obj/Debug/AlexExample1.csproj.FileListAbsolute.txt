@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\AlexExample1\AlexExample1\bin\Debug\AlexExample1.exe.config
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\AlexExample1\AlexExample1\bin\Debug\AlexExample1.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\AlexExample1\AlexExample1\bin\Debug\AlexExample1.pdb
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\AlexExample1\AlexExample1\obj\Debug\AlexExample1.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\AlexExample1\AlexExample1\obj\Debug\AlexExample1.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\AlexExample1\AlexExample1\obj\Debug\AlexExample1.pdb
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 3\AlexExample1\AlexExample1\bin\Debug\AlexExample1.exe.config
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 3\AlexExample1\AlexExample1\obj\Debug\AlexExample1.exe
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 3\AlexExample1\AlexExample1\obj\Debug\AlexExample1.pdb

@@ -1,0 +1,12 @@
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 5\BookCollectionAssessment\BookCollectionAssessment\bin\Debug\BookCollectionAssessment.exe.config
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 5\BookCollectionAssessment\BookCollectionAssessment\obj\Debug\BookCollectionAssessment.csprojResolveAssemblyReference.cache
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 5\BookCollectionAssessment\BookCollectionAssessment\bin\Debug\BookCollectionAssessment.exe
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 5\BookCollectionAssessment\BookCollectionAssessment\bin\Debug\BookCollectionAssessment.pdb
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 5\BookCollectionAssessment\BookCollectionAssessment\obj\Debug\BookCollectionAssessment.exe
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 5\BookCollectionAssessment\BookCollectionAssessment\obj\Debug\BookCollectionAssessment.pdb
+C:\Users\nazmu\Documents\GitHub\Week 2 - C#\Day 5\BookCollectionAssessment\BookCollectionAssessment\bin\Debug\BookCollectionAssessment.exe.config
+C:\Users\nazmu\Documents\GitHub\Week 2 - C#\Day 5\BookCollectionAssessment\BookCollectionAssessment\obj\Debug\BookCollectionAssessment.exe
+C:\Users\nazmu\Documents\GitHub\Week 2 - C#\Day 5\BookCollectionAssessment\BookCollectionAssessment\obj\Debug\BookCollectionAssessment.pdb
+C:\Users\nazmu\Documents\GitHub\Week2-C#\Day 5\BookCollectionAssessment\BookCollectionAssessment\bin\Debug\BookCollectionAssessment.exe.config
+C:\Users\nazmu\Documents\GitHub\Week2-C#\Day 5\BookCollectionAssessment\BookCollectionAssessment\obj\Debug\BookCollectionAssessment.exe
+C:\Users\nazmu\Documents\GitHub\Week2-C#\Day 5\BookCollectionAssessment\BookCollectionAssessment\obj\Debug\BookCollectionAssessment.pdb

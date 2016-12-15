@@ -1,0 +1,6 @@
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 4\RestaurantEncapsulationExercise\RestaurantEncapsulationExercise\bin\Debug\RestaurantEncapsulationExercise.exe.config
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 4\RestaurantEncapsulationExercise\RestaurantEncapsulationExercise\bin\Debug\RestaurantEncapsulationExercise.exe
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 4\RestaurantEncapsulationExercise\RestaurantEncapsulationExercise\bin\Debug\RestaurantEncapsulationExercise.pdb
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 4\RestaurantEncapsulationExercise\RestaurantEncapsulationExercise\obj\Debug\RestaurantEncapsulationExercise.csprojResolveAssemblyReference.cache
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 4\RestaurantEncapsulationExercise\RestaurantEncapsulationExercise\obj\Debug\RestaurantEncapsulationExercise.exe
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 4\RestaurantEncapsulationExercise\RestaurantEncapsulationExercise\obj\Debug\RestaurantEncapsulationExercise.pdb

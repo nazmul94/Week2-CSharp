@@ -1,0 +1,13 @@
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 1\Project 1\sevenDwarves\sevenDwarves\bin\Debug\sevenDwarves.exe.config
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 2\sevenDwarves\sevenDwarves\bin\Debug\sevenDwarves.exe.config
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 2\SevenDwarves\sevenDwarves\bin\Debug\sevenDwarves.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 2\SevenDwarves\sevenDwarves\bin\Debug\sevenDwarves.pdb
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 2\SevenDwarves\sevenDwarves\obj\Debug\sevenDwarves.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 2\SevenDwarves\sevenDwarves\obj\Debug\sevenDwarves.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 2\SevenDwarves\sevenDwarves\obj\Debug\sevenDwarves.pdb
+C:\Users\nazmu\OneDrive\JustIT\Day 2\SevenDwarves\sevenDwarves\bin\Debug\sevenDwarves.exe.config
+C:\Users\nazmu\OneDrive\JustIT\Day 2\SevenDwarves\sevenDwarves\obj\Debug\sevenDwarves.exe
+C:\Users\nazmu\OneDrive\JustIT\Day 2\SevenDwarves\sevenDwarves\obj\Debug\sevenDwarves.pdb
+C:\Users\nazmu\OneDrive\JustIT\Day 2\SevenDwarves\sevenDwarves\bin\Debug\sevenDwarves.exe
+C:\Users\nazmu\OneDrive\JustIT\Day 2\SevenDwarves\sevenDwarves\bin\Debug\sevenDwarves.pdb
+C:\Users\nazmu\OneDrive\JustIT\Day 2\SevenDwarves\sevenDwarves\obj\Debug\sevenDwarves.csprojResolveAssemblyReference.cache

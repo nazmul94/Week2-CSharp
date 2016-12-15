@@ -1,0 +1,21 @@
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 2\CollectionOfLists\CollectionOfLists\bin\Debug\CollectionOfLists.exe.config
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 2\CollectionOfLists\CollectionOfLists\bin\Debug\CollectionOfLists.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 2\CollectionOfLists\CollectionOfLists\bin\Debug\CollectionOfLists.pdb
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 2\CollectionOfLists\CollectionOfLists\obj\Debug\CollectionOfLists.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 2\CollectionOfLists\CollectionOfLists\obj\Debug\CollectionOfLists.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 2\CollectionOfLists\CollectionOfLists\obj\Debug\CollectionOfLists.pdb
+C:\Users\nazmu\OneDrive\JustIT\Day 2\CollectionOfLists\CollectionOfLists\bin\Debug\CollectionOfLists.exe.config
+C:\Users\nazmu\OneDrive\JustIT\Day 2\CollectionOfLists\CollectionOfLists\obj\Debug\CollectionOfLists.exe
+C:\Users\nazmu\OneDrive\JustIT\Day 2\CollectionOfLists\CollectionOfLists\obj\Debug\CollectionOfLists.pdb
+C:\Users\nazmu\OneDrive\JustIT\Day 2\CollectionOfLists\CollectionOfLists\bin\Debug\CollectionOfLists.exe
+C:\Users\nazmu\OneDrive\JustIT\Day 2\CollectionOfLists\CollectionOfLists\bin\Debug\CollectionOfLists.pdb
+C:\Users\nazmu\OneDrive\JustIT\Day 2\CollectionOfLists\CollectionOfLists\obj\Debug\CollectionOfLists.csprojResolveAssemblyReference.cache
+C:\Users\nazmu\Documents\Visual Studio 2015\Just IT\CollectionOfLists\CollectionOfLists\bin\Debug\CollectionOfLists.exe.config
+C:\Users\nazmu\Documents\Visual Studio 2015\Just IT\CollectionOfLists\CollectionOfLists\obj\Debug\CollectionOfLists.exe
+C:\Users\nazmu\Documents\Visual Studio 2015\Just IT\CollectionOfLists\CollectionOfLists\obj\Debug\CollectionOfLists.pdb
+C:\Users\nazmu\Documents\Visual Studio 2015\Just IT\CollectionOfLists\CollectionOfLists\bin\Debug\CollectionOfLists.exe
+C:\Users\nazmu\Documents\Visual Studio 2015\Just IT\CollectionOfLists\CollectionOfLists\bin\Debug\CollectionOfLists.pdb
+C:\Users\nazmu\Documents\Visual Studio 2015\Just IT\CollectionOfLists\CollectionOfLists\obj\Debug\CollectionOfLists.csprojResolveAssemblyReference.cache
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 2\CollectionOfLists\CollectionOfLists\bin\Debug\CollectionOfLists.exe.config
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 2\CollectionOfLists\CollectionOfLists\obj\Debug\CollectionOfLists.exe
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 2\CollectionOfLists\CollectionOfLists\obj\Debug\CollectionOfLists.pdb

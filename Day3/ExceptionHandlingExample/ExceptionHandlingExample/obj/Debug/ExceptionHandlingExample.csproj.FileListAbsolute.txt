@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\ExceptionHandlingExample\ExceptionHandlingExample\bin\Debug\ExceptionHandlingExample.exe.config
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\ExceptionHandlingExample\ExceptionHandlingExample\bin\Debug\ExceptionHandlingExample.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\ExceptionHandlingExample\ExceptionHandlingExample\bin\Debug\ExceptionHandlingExample.pdb
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\ExceptionHandlingExample\ExceptionHandlingExample\obj\Debug\ExceptionHandlingExample.exe
+C:\Users\student\Desktop\Naz\Week 2 - C#\Day 3\ExceptionHandlingExample\ExceptionHandlingExample\obj\Debug\ExceptionHandlingExample.pdb
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 3\ExceptionHandlingExample\ExceptionHandlingExample\bin\Debug\ExceptionHandlingExample.exe.config
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 3\ExceptionHandlingExample\ExceptionHandlingExample\obj\Debug\ExceptionHandlingExample.exe
+C:\Users\nazmu\OneDrive\JustIT\Week 2 - C#\Day 3\ExceptionHandlingExample\ExceptionHandlingExample\obj\Debug\ExceptionHandlingExample.pdb
